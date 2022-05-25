@@ -1,0 +1,9 @@
+1. False
+2. byte, short, int, long
+3. False
+4. uint
+5. decimal, float, double
+6. double
+7. decimal
+8. string
+9. bool

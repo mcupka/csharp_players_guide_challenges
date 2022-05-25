@@ -1,0 +1,15 @@
+D:\repos\csharp_players_guide\l4\thing_namer_3000\bin\Debug\net6.0\thing_namer_3000.exe
+D:\repos\csharp_players_guide\l4\thing_namer_3000\bin\Debug\net6.0\thing_namer_3000.deps.json
+D:\repos\csharp_players_guide\l4\thing_namer_3000\bin\Debug\net6.0\thing_namer_3000.runtimeconfig.json
+D:\repos\csharp_players_guide\l4\thing_namer_3000\bin\Debug\net6.0\thing_namer_3000.dll
+D:\repos\csharp_players_guide\l4\thing_namer_3000\bin\Debug\net6.0\thing_namer_3000.pdb
+D:\repos\csharp_players_guide\l4\thing_namer_3000\obj\Debug\net6.0\thing_namer_3000.csproj.AssemblyReference.cache
+D:\repos\csharp_players_guide\l4\thing_namer_3000\obj\Debug\net6.0\thing_namer_3000.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\csharp_players_guide\l4\thing_namer_3000\obj\Debug\net6.0\thing_namer_3000.AssemblyInfoInputs.cache
+D:\repos\csharp_players_guide\l4\thing_namer_3000\obj\Debug\net6.0\thing_namer_3000.AssemblyInfo.cs
+D:\repos\csharp_players_guide\l4\thing_namer_3000\obj\Debug\net6.0\thing_namer_3000.csproj.CoreCompileInputs.cache
+D:\repos\csharp_players_guide\l4\thing_namer_3000\obj\Debug\net6.0\thing_namer_3000.dll
+D:\repos\csharp_players_guide\l4\thing_namer_3000\obj\Debug\net6.0\refint\thing_namer_3000.dll
+D:\repos\csharp_players_guide\l4\thing_namer_3000\obj\Debug\net6.0\thing_namer_3000.pdb
+D:\repos\csharp_players_guide\l4\thing_namer_3000\obj\Debug\net6.0\thing_namer_3000.genruntimeconfig.cache
+D:\repos\csharp_players_guide\l4\thing_namer_3000\obj\Debug\net6.0\ref\thing_namer_3000.dll

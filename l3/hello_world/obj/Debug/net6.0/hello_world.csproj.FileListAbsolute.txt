@@ -1,0 +1,15 @@
+D:\repos\csharp_players_guide\l3\hello_world\bin\Debug\net6.0\hello_world.exe
+D:\repos\csharp_players_guide\l3\hello_world\bin\Debug\net6.0\hello_world.deps.json
+D:\repos\csharp_players_guide\l3\hello_world\bin\Debug\net6.0\hello_world.runtimeconfig.json
+D:\repos\csharp_players_guide\l3\hello_world\bin\Debug\net6.0\hello_world.dll
+D:\repos\csharp_players_guide\l3\hello_world\bin\Debug\net6.0\hello_world.pdb
+D:\repos\csharp_players_guide\l3\hello_world\obj\Debug\net6.0\hello_world.csproj.AssemblyReference.cache
+D:\repos\csharp_players_guide\l3\hello_world\obj\Debug\net6.0\hello_world.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\csharp_players_guide\l3\hello_world\obj\Debug\net6.0\hello_world.AssemblyInfoInputs.cache
+D:\repos\csharp_players_guide\l3\hello_world\obj\Debug\net6.0\hello_world.AssemblyInfo.cs
+D:\repos\csharp_players_guide\l3\hello_world\obj\Debug\net6.0\hello_world.csproj.CoreCompileInputs.cache
+D:\repos\csharp_players_guide\l3\hello_world\obj\Debug\net6.0\hello_world.dll
+D:\repos\csharp_players_guide\l3\hello_world\obj\Debug\net6.0\refint\hello_world.dll
+D:\repos\csharp_players_guide\l3\hello_world\obj\Debug\net6.0\hello_world.pdb
+D:\repos\csharp_players_guide\l3\hello_world\obj\Debug\net6.0\hello_world.genruntimeconfig.cache
+D:\repos\csharp_players_guide\l3\hello_world\obj\Debug\net6.0\ref\hello_world.dll

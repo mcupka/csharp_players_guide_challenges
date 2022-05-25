@@ -1,0 +1,15 @@
+D:\repos\csharp_players_guide\l6\the_variable_shop\obj\Debug\net6.0\the_variable_shop.csproj.AssemblyReference.cache
+D:\repos\csharp_players_guide\l6\the_variable_shop\obj\Debug\net6.0\the_variable_shop.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\csharp_players_guide\l6\the_variable_shop\obj\Debug\net6.0\the_variable_shop.AssemblyInfoInputs.cache
+D:\repos\csharp_players_guide\l6\the_variable_shop\obj\Debug\net6.0\the_variable_shop.AssemblyInfo.cs
+D:\repos\csharp_players_guide\l6\the_variable_shop\obj\Debug\net6.0\the_variable_shop.csproj.CoreCompileInputs.cache
+D:\repos\csharp_players_guide\l6\the_variable_shop\bin\Debug\net6.0\the_variable_shop.exe
+D:\repos\csharp_players_guide\l6\the_variable_shop\bin\Debug\net6.0\the_variable_shop.deps.json
+D:\repos\csharp_players_guide\l6\the_variable_shop\bin\Debug\net6.0\the_variable_shop.runtimeconfig.json
+D:\repos\csharp_players_guide\l6\the_variable_shop\bin\Debug\net6.0\the_variable_shop.dll
+D:\repos\csharp_players_guide\l6\the_variable_shop\bin\Debug\net6.0\the_variable_shop.pdb
+D:\repos\csharp_players_guide\l6\the_variable_shop\obj\Debug\net6.0\the_variable_shop.dll
+D:\repos\csharp_players_guide\l6\the_variable_shop\obj\Debug\net6.0\refint\the_variable_shop.dll
+D:\repos\csharp_players_guide\l6\the_variable_shop\obj\Debug\net6.0\the_variable_shop.pdb
+D:\repos\csharp_players_guide\l6\the_variable_shop\obj\Debug\net6.0\the_variable_shop.genruntimeconfig.cache
+D:\repos\csharp_players_guide\l6\the_variable_shop\obj\Debug\net6.0\ref\the_variable_shop.dll
