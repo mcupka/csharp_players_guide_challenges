@@ -1,0 +1,15 @@
+D:\repos\csharp_players_guide\l8\defense_of_consolas\bin\Debug\net6.0\defense_of_consolas.exe
+D:\repos\csharp_players_guide\l8\defense_of_consolas\bin\Debug\net6.0\defense_of_consolas.deps.json
+D:\repos\csharp_players_guide\l8\defense_of_consolas\bin\Debug\net6.0\defense_of_consolas.runtimeconfig.json
+D:\repos\csharp_players_guide\l8\defense_of_consolas\bin\Debug\net6.0\defense_of_consolas.dll
+D:\repos\csharp_players_guide\l8\defense_of_consolas\bin\Debug\net6.0\defense_of_consolas.pdb
+D:\repos\csharp_players_guide\l8\defense_of_consolas\obj\Debug\net6.0\defense_of_consolas.csproj.AssemblyReference.cache
+D:\repos\csharp_players_guide\l8\defense_of_consolas\obj\Debug\net6.0\defense_of_consolas.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\csharp_players_guide\l8\defense_of_consolas\obj\Debug\net6.0\defense_of_consolas.AssemblyInfoInputs.cache
+D:\repos\csharp_players_guide\l8\defense_of_consolas\obj\Debug\net6.0\defense_of_consolas.AssemblyInfo.cs
+D:\repos\csharp_players_guide\l8\defense_of_consolas\obj\Debug\net6.0\defense_of_consolas.csproj.CoreCompileInputs.cache
+D:\repos\csharp_players_guide\l8\defense_of_consolas\obj\Debug\net6.0\defense_of_consolas.dll
+D:\repos\csharp_players_guide\l8\defense_of_consolas\obj\Debug\net6.0\refint\defense_of_consolas.dll
+D:\repos\csharp_players_guide\l8\defense_of_consolas\obj\Debug\net6.0\defense_of_consolas.pdb
+D:\repos\csharp_players_guide\l8\defense_of_consolas\obj\Debug\net6.0\defense_of_consolas.genruntimeconfig.cache
+D:\repos\csharp_players_guide\l8\defense_of_consolas\obj\Debug\net6.0\ref\defense_of_consolas.dll
