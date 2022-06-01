@@ -1,0 +1,15 @@
+D:\repos\csharp_players_guide\l9\l9_solutions\obj\Debug\net6.0\l9_solutions.csproj.AssemblyReference.cache
+D:\repos\csharp_players_guide\l9\l9_solutions\obj\Debug\net6.0\l9_solutions.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\csharp_players_guide\l9\l9_solutions\obj\Debug\net6.0\l9_solutions.AssemblyInfoInputs.cache
+D:\repos\csharp_players_guide\l9\l9_solutions\obj\Debug\net6.0\l9_solutions.AssemblyInfo.cs
+D:\repos\csharp_players_guide\l9\l9_solutions\obj\Debug\net6.0\l9_solutions.csproj.CoreCompileInputs.cache
+D:\repos\csharp_players_guide\l9\l9_solutions\bin\Debug\net6.0\l9_solutions.exe
+D:\repos\csharp_players_guide\l9\l9_solutions\bin\Debug\net6.0\l9_solutions.deps.json
+D:\repos\csharp_players_guide\l9\l9_solutions\bin\Debug\net6.0\l9_solutions.runtimeconfig.json
+D:\repos\csharp_players_guide\l9\l9_solutions\bin\Debug\net6.0\l9_solutions.dll
+D:\repos\csharp_players_guide\l9\l9_solutions\bin\Debug\net6.0\l9_solutions.pdb
+D:\repos\csharp_players_guide\l9\l9_solutions\obj\Debug\net6.0\l9_solutions.dll
+D:\repos\csharp_players_guide\l9\l9_solutions\obj\Debug\net6.0\refint\l9_solutions.dll
+D:\repos\csharp_players_guide\l9\l9_solutions\obj\Debug\net6.0\l9_solutions.pdb
+D:\repos\csharp_players_guide\l9\l9_solutions\obj\Debug\net6.0\l9_solutions.genruntimeconfig.cache
+D:\repos\csharp_players_guide\l9\l9_solutions\obj\Debug\net6.0\ref\l9_solutions.dll
