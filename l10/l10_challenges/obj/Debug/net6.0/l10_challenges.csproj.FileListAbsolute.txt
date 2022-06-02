@@ -1,0 +1,15 @@
+D:\repos\csharp_players_guide\l10\l10_challenges\bin\Debug\net6.0\l10_challenges.exe
+D:\repos\csharp_players_guide\l10\l10_challenges\bin\Debug\net6.0\l10_challenges.deps.json
+D:\repos\csharp_players_guide\l10\l10_challenges\bin\Debug\net6.0\l10_challenges.runtimeconfig.json
+D:\repos\csharp_players_guide\l10\l10_challenges\bin\Debug\net6.0\l10_challenges.dll
+D:\repos\csharp_players_guide\l10\l10_challenges\bin\Debug\net6.0\l10_challenges.pdb
+D:\repos\csharp_players_guide\l10\l10_challenges\obj\Debug\net6.0\l10_challenges.csproj.AssemblyReference.cache
+D:\repos\csharp_players_guide\l10\l10_challenges\obj\Debug\net6.0\l10_challenges.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\csharp_players_guide\l10\l10_challenges\obj\Debug\net6.0\l10_challenges.AssemblyInfoInputs.cache
+D:\repos\csharp_players_guide\l10\l10_challenges\obj\Debug\net6.0\l10_challenges.AssemblyInfo.cs
+D:\repos\csharp_players_guide\l10\l10_challenges\obj\Debug\net6.0\l10_challenges.csproj.CoreCompileInputs.cache
+D:\repos\csharp_players_guide\l10\l10_challenges\obj\Debug\net6.0\l10_challenges.dll
+D:\repos\csharp_players_guide\l10\l10_challenges\obj\Debug\net6.0\refint\l10_challenges.dll
+D:\repos\csharp_players_guide\l10\l10_challenges\obj\Debug\net6.0\l10_challenges.pdb
+D:\repos\csharp_players_guide\l10\l10_challenges\obj\Debug\net6.0\l10_challenges.genruntimeconfig.cache
+D:\repos\csharp_players_guide\l10\l10_challenges\obj\Debug\net6.0\ref\l10_challenges.dll
