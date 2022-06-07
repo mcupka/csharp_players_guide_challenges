@@ -1,0 +1,15 @@
+C:\Users\micha\source\repos\l11_challenges\bin\Debug\net6.0\l11_challenges.exe
+C:\Users\micha\source\repos\l11_challenges\bin\Debug\net6.0\l11_challenges.deps.json
+C:\Users\micha\source\repos\l11_challenges\bin\Debug\net6.0\l11_challenges.runtimeconfig.json
+C:\Users\micha\source\repos\l11_challenges\bin\Debug\net6.0\l11_challenges.dll
+C:\Users\micha\source\repos\l11_challenges\bin\Debug\net6.0\l11_challenges.pdb
+C:\Users\micha\source\repos\l11_challenges\obj\Debug\net6.0\l11_challenges.csproj.AssemblyReference.cache
+C:\Users\micha\source\repos\l11_challenges\obj\Debug\net6.0\l11_challenges.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\source\repos\l11_challenges\obj\Debug\net6.0\l11_challenges.AssemblyInfoInputs.cache
+C:\Users\micha\source\repos\l11_challenges\obj\Debug\net6.0\l11_challenges.AssemblyInfo.cs
+C:\Users\micha\source\repos\l11_challenges\obj\Debug\net6.0\l11_challenges.csproj.CoreCompileInputs.cache
+C:\Users\micha\source\repos\l11_challenges\obj\Debug\net6.0\l11_challenges.dll
+C:\Users\micha\source\repos\l11_challenges\obj\Debug\net6.0\refint\l11_challenges.dll
+C:\Users\micha\source\repos\l11_challenges\obj\Debug\net6.0\l11_challenges.pdb
+C:\Users\micha\source\repos\l11_challenges\obj\Debug\net6.0\l11_challenges.genruntimeconfig.cache
+C:\Users\micha\source\repos\l11_challenges\obj\Debug\net6.0\ref\l11_challenges.dll
