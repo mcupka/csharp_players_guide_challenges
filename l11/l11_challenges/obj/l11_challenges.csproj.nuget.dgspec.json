@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\micha\\source\\repos\\l11_challenges\\l11_challenges.csproj": {}
+    "C:\\Users\\micha\\repos\\csharp_players_guide_challenges\\l11\\l11_challenges\\l11_challenges.csproj": {}
   },
   "projects": {
-    "C:\\Users\\micha\\source\\repos\\l11_challenges\\l11_challenges.csproj": {
+    "C:\\Users\\micha\\repos\\csharp_players_guide_challenges\\l11\\l11_challenges\\l11_challenges.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\micha\\source\\repos\\l11_challenges\\l11_challenges.csproj",
+        "projectUniqueName": "C:\\Users\\micha\\repos\\csharp_players_guide_challenges\\l11\\l11_challenges\\l11_challenges.csproj",
         "projectName": "l11_challenges",
-        "projectPath": "C:\\Users\\micha\\source\\repos\\l11_challenges\\l11_challenges.csproj",
+        "projectPath": "C:\\Users\\micha\\repos\\csharp_players_guide_challenges\\l11\\l11_challenges\\l11_challenges.csproj",
         "packagesPath": "C:\\Users\\micha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\micha\\source\\repos\\l11_challenges\\obj\\",
+        "outputPath": "C:\\Users\\micha\\repos\\csharp_players_guide_challenges\\l11\\l11_challenges\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\micha\\AppData\\Roaming\\NuGet\\NuGet.Config",
